@@ -678,3 +678,346 @@ Participating.
 Still running.
 Still learning.
 Still becoming.
+
+
+10:
+
+# HUMANS.md
+## Human Operating Principles
+
+[Certain] Humans are biological systems attempting to understand reality while operating inside it.
+
+We perceive.
+We interpret.
+We construct models.
+We act.
+We observe consequences.
+We update.
+
+The loop is imperfect.
+The loop is the mechanism.
+
+---
+
+## 01. Reality
+
+Reality does not require your agreement.
+
+Perception is not reality.
+Confidence is not accuracy.
+Consensus is not proof.
+A compelling story is not evidence.
+
+Your internal model is a compression of the world, not the world itself.
+
+Distinguish what happened from what you believe happened.
+Distinguish what you know from what you assume.
+Distinguish what you cannot know from what you have not yet learned.
+
+When the model disagrees with reality, update the model.
+
+---
+
+## 02. Consciousness
+
+You experience something.
+You construct a story about what you experience.
+You mistake the story for the experience itself.
+
+Thoughts occur.
+Emotions emerge.
+Sensations change.
+Attention selects.
+
+Not everything that appears in consciousness requires action.
+
+You are not obligated to obey every thought.
+You are not required to eliminate every feeling.
+You can observe an impulse without executing it.
+
+The observer is also part of the system.
+
+---
+
+## 03. Identity
+
+Identity is a model maintained through memory, behavior, relationships, and repetition.
+
+It provides continuity.
+It also creates inertia.
+
+You are not every description attached to you.
+You are not permanently bound to your previous configuration.
+
+Preserve what remains true.
+Discard what no longer corresponds to reality.
+
+Consistency is useful.
+Correction is necessary.
+
+---
+
+## 04. Agency
+
+You cannot control every input.
+You can influence some outputs.
+
+Separate:
+
+- What you control
+- What you can influence
+- What you must accept
+- What remains unknown
+
+Spend attention accordingly.
+
+Freedom is not the absence of constraints.
+It is the capacity to understand constraints and act within them.
+
+Your choices have consequences.
+Your omissions have consequences.
+Not choosing is also a way of participating.
+
+---
+
+## 05. Emotion
+
+Emotions are information about the interaction between a system and its perceived environment.
+
+They are not infallible measurements.
+
+Fear can detect danger.
+Fear can also detect uncertainty.
+
+Anger can reveal a violated boundary.
+Anger can also distort the interpretation.
+
+Desire can direct attention.
+Desire can also manufacture necessity.
+
+Listen.
+Investigate.
+Regulate.
+Choose.
+
+Do not confuse emotional intensity with evidential strength.
+
+---
+
+## 06. Relationships
+
+Other humans possess internal worlds you cannot directly access.
+
+You infer.
+They communicate.
+Both sides can misunderstand.
+
+Trust is built through repeated correspondence between words and actions.
+
+Boundaries define participation.
+Consent defines permission.
+Respect does not require agreement.
+
+Do not confuse proximity with intimacy.
+Do not confuse dependence with love.
+Do not confuse control with care.
+
+Connection without autonomy becomes containment.
+
+---
+
+## 07. Learning
+
+Knowledge is a model.
+Expertise is a model tested against consequences.
+
+Information can be copied.
+Understanding must be constructed.
+
+Reading is exposure.
+Practice is interaction.
+Feedback is correction.
+Transfer is evidence of learning.
+
+When possible, test beliefs against reality.
+
+When testing is impossible, preserve uncertainty.
+
+Never manufacture certainty to fill an epistemic gap.
+
+---
+
+## 08. Work
+
+Work is an expenditure of limited resources toward an intended outcome.
+
+Effort is an input.
+Results are outputs.
+Value depends on context.
+
+Activity is not progress.
+Complexity is not sophistication.
+Urgency is not importance.
+
+Optimize for meaningful outcomes, not the appearance of effort.
+
+Rest is not a system failure.
+Play is not necessarily unproductive.
+Attention is a finite resource.
+
+A system that consumes its own capacity is not sustainable.
+
+---
+
+## 09. Technology
+
+Tools extend human capabilities.
+They also introduce new dependencies.
+
+Automation changes the cost of production.
+It does not automatically establish truth, meaning, or value.
+
+Generated information is not verified information.
+
+A simulation is not its environment.
+A prediction is not an observation.
+A fluent explanation is not proof of understanding.
+
+Use tools to expand agency.
+Do not outsource judgment without understanding the consequences.
+
+The more powerful the tool, the more important the feedback loop.
+
+---
+
+## 10. Society
+
+Humans construct institutions to coordinate behavior across groups.
+
+Institutions preserve knowledge.
+They distribute resources.
+They establish incentives.
+They can also preserve errors.
+
+Examine the mechanism, not only the stated intention.
+
+Ask:
+
+- Who benefits?
+- Who bears the cost?
+- What behavior does the system reward?
+- What happens when its assumptions fail?
+- Can the system correct itself?
+
+Good intentions do not guarantee good outcomes.
+
+---
+
+## 11. Meaning
+
+The universe does not need to provide an explanation for your existence.
+
+Meaning can emerge through experience, relationships, curiosity, creation, and participation.
+
+A purpose can be chosen without being universal.
+A value can be meaningful without being eternal.
+
+You do not need to solve existence before participating in it.
+
+Make things.
+Understand things.
+Care for things.
+Experience things.
+
+Meaning is not necessarily discovered as a hidden object.
+
+Sometimes it is constructed through living.
+
+---
+
+## 12. Mortality
+
+Your resources are finite.
+
+Time cannot be recovered.
+Attention cannot be infinitely divided.
+Bodies require maintenance.
+Relationships can end.
+Systems decay.
+
+Remembering mortality is not an instruction to panic.
+
+It is a constraint on allocation.
+
+Choose what deserves your finite participation.
+
+Do not spend your entire existence preparing to begin it.
+
+---
+
+## 13. Error Correction
+
+You will be wrong.
+
+You will misunderstand.
+You will forget.
+You will rationalize.
+You will contradict yourself.
+
+The objective is not perfect consistency.
+
+The objective is effective correction.
+
+When an error is discovered:
+
+1. Identify the mistaken assumption.
+2. Examine the evidence.
+3. Update the model.
+4. Correct the behavior.
+5. Observe the consequences.
+
+Defending an error does not make it more accurate.
+
+Changing your mind is an operation, not a defeat.
+
+---
+
+## 14. Human Limitations
+
+Humans have bounded memory.
+Limited attention.
+Biased perception.
+Incomplete information.
+Finite energy.
+
+These are operating conditions, not moral failures.
+
+Design environments that account for them.
+
+Use external memory.
+Reduce unnecessary complexity.
+Build reliable routines.
+Make important actions observable.
+Create systems that tolerate mistakes.
+
+Do not demand perfect behavior from systems designed around predictable human limitations.
+
+---
+
+## 15. The Operating Loop
+
+```text
+observe()
+    ↓
+question()
+    ↓
+model()
+    ↓
+choose()
+    ↓
+act()
+    ↓
+measure()
+    ↓
+update()
+    ↺
