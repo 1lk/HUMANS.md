@@ -632,3 +632,49 @@ Games expose rules.
 Philosophy clarifies them.
 Execution tests them.
 Only innovation survives.
+
+
+
+The loop is more important than the initial answer.
+Reality is the environment.
+The body is the interface.
+Attention is the allocation mechanism.
+Thought is a modeling process.
+Action is an intervention.
+Feedback is the correction signal.
+
+
+Final Principles
+[Certain] You do not have complete access to reality.
+[Certain] Your models can be wrong.
+[Certain] Your actions can change the conditions you observe.
+[Certain] Other humans are not extensions of your own mind.
+[Certain] Finite resources require allocation.
+[Likely] Better feedback produces better models when the feedback is relevant and correctly interpreted.
+[Certain] No framework removes the need for judgment.
+Do not worship the model.
+Do not worship the tool.
+Do not worship the system.
+Understand what it does.
+Understand what it cannot do.
+Test what can be tested.
+Preserve uncertainty where evidence ends.
+Act where action is possible.
+Update when reality responds.
+
+
+HUMAN
+
+
+Not an isolated intelligence.
+Not an infallible observer.
+Not a finished product.
+A living system.
+Perceiving.
+Modeling.
+Adapting.
+Creating.
+Participating.
+Still running.
+Still learning.
+Still becoming.
